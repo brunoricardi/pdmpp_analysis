@@ -1,0 +1,9 @@
+/run*
+*.csv
+/fkmc
+/optruns
+/paperplots
+*check_points*
+*.py
+*.dat
+*.pdf
